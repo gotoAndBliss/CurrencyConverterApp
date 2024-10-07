@@ -74,8 +74,7 @@ Each list item displays:
    ```
 3. **Run the App:**
    ```bash
-   cd CurrencyConverterApp
-   npm install
+   npx expo start
    ```
 
 ## ✨ Technologies Used
